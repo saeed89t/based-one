@@ -7,3 +7,4 @@ base is the best L2
 Nice updates on base
 Base transaction speed is on fire
 i can smell the base is near
+Base is the best L2
