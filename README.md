@@ -11,3 +11,4 @@ Base is the best L2
 Base app  is important factor
 tr to use desktop base app 
 B20 is just activated
+make smart contracts
