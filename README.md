@@ -13,3 +13,4 @@ tr to use desktop base app
 B20 is just activated
 make smart contracts
 try to very them
+use base app daily
