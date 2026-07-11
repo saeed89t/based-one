@@ -15,3 +15,4 @@ make smart contracts
 try to very them
 use base app daily
 use base app mini apps 
+make some volume
