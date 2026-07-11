@@ -14,3 +14,4 @@ B20 is just activated
 make smart contracts
 try to very them
 use base app daily
+use base app mini apps 
