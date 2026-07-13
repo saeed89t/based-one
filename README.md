@@ -18,4 +18,4 @@ use base app mini apps
 make some volume
 try swaps on Base and Baseapp
 2027 will be start of base
-
+Base is starting on memes again
