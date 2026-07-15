@@ -20,3 +20,5 @@ try swaps on Base and Baseapp
 2027 will be start of base
 Base is starting on memes again
 test new features on base
+Base is what im waiting for
+
