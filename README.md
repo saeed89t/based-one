@@ -24,3 +24,4 @@ Base is what im waiting for
 can u smell the base 
 Base is rich peoples chain
 use Base and pray me
+Jessi is gonna change the base direction
