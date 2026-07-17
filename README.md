@@ -26,6 +26,6 @@ Base is rich peoples chain
 use Base and pray me
 Jessi is gonna change the base direction
 Create b20 token
-
+Verify the token 
 
 
