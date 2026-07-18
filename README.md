@@ -30,4 +30,5 @@ Verify the token
 Make some liquidity for the token 
 make som transactions on it 
 There is some news i guess
+chain.base.org is going on
 
